@@ -15,7 +15,10 @@ A MySQL database project for managing students, companies, job postings, applica
 JOIN, subqueries, GROUP BY, HAVING, CTE, CASE, aggregate functions and window functions.
 
 ## EER Diagram
-The MySQL Workbench EER model used for this project is stored in `docs/EER_Diagram.mwb`.
+
+![College Placement EER Diagram](docs/EER_Diagram.svg)
+
+The original MySQL Workbench model is also included in `docs/EER_Diagram.mwb` for opening/editing in MySQL Workbench.
 
 ## Run
 Open MySQL Workbench, run `database/schema.sql`, then `database/sample_data.sql` and `database/reports.sql`.
